@@ -7,5 +7,6 @@ The use of scenes to create it are as follows:
   game screen { player, heads up display (HUD)}\
     pause action\
   game over screen {game stats}\
+  game restart\
 #
   
